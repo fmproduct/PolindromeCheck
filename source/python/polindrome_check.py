@@ -7,8 +7,6 @@ def isPolindrome(d):
 	return reverse(d) == d
 
 i = 0
-x = 10
-y = 9000
 j = int(input('input number:	'))
 print('------------------------------------------')
 print('original:	'+str(j))
